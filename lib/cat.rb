@@ -15,4 +15,4 @@ class Cat
     @@all
   end
 
-end
+en
